@@ -1,0 +1,23 @@
+Bron-Kerbosch Algorithm with Degeneracy Ordering Results:
+Dataset: Wiki-Vote.txt
+Total maximal cliques found: 459002
+Size of largest clique: 17
+Execution time: 1.4854 seconds
+
+Clique size distribution:
+Size 2: 8655 cliques
+Size 3: 13718 cliques
+Size 4: 27292 cliques
+Size 5: 48416 cliques
+Size 6: 68872 cliques
+Size 7: 83266 cliques
+Size 8: 76732 cliques
+Size 9: 54456 cliques
+Size 10: 35470 cliques
+Size 11: 21736 cliques
+Size 12: 11640 cliques
+Size 13: 5449 cliques
+Size 14: 2329 cliques
+Size 15: 740 cliques
+Size 16: 208 cliques
+Size 17: 23 cliques
